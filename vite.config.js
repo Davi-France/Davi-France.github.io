@@ -11,4 +11,5 @@ export default defineConfig({
       include: [".src/**/*/js", "/src/**/*/jsx"],
     }),
   ],
+  base: "/Davi-France.github.io",
 });
